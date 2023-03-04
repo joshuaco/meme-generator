@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  color: rgba(255, 255, 255, 1);
+}
+
+.navbar--link {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 500;
+}
