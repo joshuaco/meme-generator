@@ -56,6 +56,7 @@ const Meme = () => {
         />
         <button className='form--button' onClick={getMemeImage}>
           Get a new meme image
+          <img src='/src/assets/framed_picture_color.svg' alt='frame' />
         </button>
       </div>
       <div className='meme-box'>

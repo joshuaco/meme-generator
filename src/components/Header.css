@@ -7,7 +7,16 @@
   color: rgba(255, 255, 255, 1);
 }
 
+.navbar h1 {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
 .navbar--link {
+  display: flex;
+  align-items: center;
   color: rgba(255, 255, 255, 1);
   font-weight: 500;
+  gap: 5px;
 }

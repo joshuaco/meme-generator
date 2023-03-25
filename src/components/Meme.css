@@ -11,8 +11,12 @@ main {
 }
 
 .form--button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: 'Karla', sans-serif;
   font-size: 16px;
+  gap: 10px;
   grid-column: 1 / -1;
   font-weight: 600;
   border-radius: 5px;
@@ -26,6 +30,7 @@ main {
   font-family: 'Karla', sans-serif;
   border-radius: 5px;
   border: 1px solid #D5D4D8;
+  color: #333;
   text-indent: 15px;
 }
 
