@@ -9,7 +9,7 @@ const Header = () => {
         </h1>
         <a href="#" className="navbar--link">
           Give me money
-          <img src="/src/assets/money_bag_color.svg" alt="bag of money" />
+          <img src="../src/assets/money_bag_color.svg" alt="bag of money" />
         </a>
       </nav>
     </header>
