@@ -23,7 +23,7 @@
     "vite": "^4.1.0"
   },
   "vite": {
-  "base": "meme-generator",
+  "base": "/meme-generator/",
   "build": {
     "outDir": "dist"
   }
